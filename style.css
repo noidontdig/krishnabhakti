@@ -1,0 +1,100 @@
+/* recycle! | rr583@nyu.edu */
+
+body {
+	font-family: arial;
+	font-size: 10pt;
+	color:black;
+	text-align:center;
+}
+
+
+a {color:#0000AA; text-decoration:underline;}
+a:link {color:#0000AA; text-decoration:underline;}
+a:active {color:#0000AA; text-decoration:underline;}
+a:visited {color:#0000AA; text-decoration:underline;}
+a:hover {color:#0099CC; text-decoration:underline;}
+
+
+.sidesegment a {color:#0099CC; text-decoration:none;}
+.sidesegment a:link {color:#0099CC; text-decoration:none;}
+.sidesegment a:active {color:#0099CC; text-decoration:none;}
+.sidesegment a:visited {color:#0099CC; text-decoration:none;}
+.sidesegment a:hover {color:#99cc99; text-decoration:underline;}
+
+.main {
+	width: 700px;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	padding: 10px;
+	margin-right: 15px;
+	text-align: center;
+	font-family: verdana, arial, tahoma, sans-serif;
+	line-height: 12pt;
+	font-size: 10pt;
+}
+
+.h2 {
+	text-align: left;
+	line-height: 18pt;
+	font-size: 20pt;
+	font-family: verdana, arial, tahoma, sans-serif;	
+		}
+
+.h1 {
+	text-align: left;
+	line-height: 12pt;
+	font-size: 12pt;
+	font-family: verdana, arial, tahoma, sans-serif;	
+		}
+
+.faq {
+	text-align: left;
+	line-height: 12pt;
+	font-size: 8pt;
+	font-family: verdana, arial, tahoma, sans-serif;	
+		}
+
+.side1 {
+	width: 166px;
+	padding-left: 15px;
+} 
+
+
+.side2 {
+	padding-left: 15px;
+	padding-right: 20px;
+
+} 
+
+
+.sidesegment {
+	width: 166px;
+	border-top: 10px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 15px;
+	color: #0099CC;
+	text-align: right;
+	font-family: verdana, arial, tahoma, sans-serif;
+	line-height: 12pt;
+	font-size: 9pt;
+}
+
+
+
+.body {
+	padding-top: 5px;
+	text-align: left;
+	font-family: verdana, arial, tahoma, sans-serif;
+	line-height: 12pt;
+	font-size: 10pt;
+	margin-bottom: 25px;
+}
+
+
+
+
