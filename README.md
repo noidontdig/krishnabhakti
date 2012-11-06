@@ -1,4 +1,6 @@
 krishnabhakti
 =============
 
-NYU vegetarian cooking club website
+NYU vegetarian cooking club website 
+
+http://www.nyu.edu/clubs/krishnabhakti
